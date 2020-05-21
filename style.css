@@ -1,0 +1,62 @@
+body{
+    line-height: 1.7;
+    color:rgb(10, 10, 10);
+    font-weight:400;
+    font-size: 1rem;
+}
+h1,h2,h3{margin-top:0;
+         margin-bottom:0.5rem ;
+}
+a{text-decoration: none;}
+a:hover{text-decoration: none;}
+.menu{
+    border-bottom:3px solid rgb(69, 71, 73);
+    border-bottom-style: double;
+    font-size: 20px;
+    font-weight: bold;
+}
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom:0;
+    padding-inline-start:0px;
+  
+}
+.name{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: 100px;
+    color:rgb(28, 138, 153);
+    }
+.flower{
+    padding:20px;
+    border:3px rgb(46, 42, 34);
+    font-size: 20px;
+    border-style: dotted;
+    background-color: rgb(214, 179, 133);
+   text-align: left;
+}
+.img-fluid{
+    width:40%;
+    height:auto ;
+}
+.paint{
+    background-color: rgb(216, 133, 122);
+    font-size: 20px;
+    border:3px rgb(46, 42, 34);
+    border-style: dotted;
+    text-align:left ;
+    color:rgb(7, 6, 6);
+    padding:20px;}
+.caption{
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: .2em;
+    font-size: 19px;
+    padding: 7px 10px;
+    color:darkolivegreen;
+    display: inline-block;
+    
+}
+     
+
